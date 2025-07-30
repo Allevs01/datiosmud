@@ -1,0 +1,10 @@
+device,cpu,ram
+
+mmw,1,17779
+husarion,1,16845
+raspian,14,14272
+
+cert
+mmw,1,10240
+raspian,22, 8960
+husarion, 2, 10240
